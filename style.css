@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62,5%;
+
+    --bg: #2C2B3D;
+    --segundary: #00BFA6;
+    --text: #C2C2C2;
+    --white: #FFFFFF;
+
+}
